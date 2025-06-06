@@ -1,0 +1,123 @@
+Title:
+How to Identify and Remove Suspicious Browser Extensions
+
+Purpose:
+This guide helps users identify and safely remove browser extensions that may be malicious, privacy-invasive, or unwanted.
+
+Step 1: Identify Suspicious Extensions
+Signs of a Suspicious Extension:
+
+Installed without your knowledge.
+
+Requests excessive or unnecessary permissions.
+
+Alters browser behavior (e.g., injects ads, changes search engine).
+
+Generic names like “SafeBrowse” or “Video Converter”.
+
+Poor or no reviews.
+
+Step 2: Remove Extensions (By Browser)
+🔹 Google Chrome
+Open Chrome.
+
+Visit chrome://extensions/.
+
+Review all listed extensions.
+
+Use Toggle to disable or Remove to uninstall.
+
+Click Details to review permissions and source.
+
+🔹 Mozilla Firefox
+Click the ☰ menu > Add-ons and Themes > Extensions.
+
+Click the ⋯ menu next to each extension > Remove.
+
+🔹 Microsoft Edge
+Open Edge and go to edge://extensions/.
+
+Disable or remove extensions you don’t recognize.
+
+🔹 Safari (macOS)
+Open Safari.
+
+Go to Safari > Settings > Extensions tab.
+
+Uncheck or uninstall any unfamiliar extensions.
+
+Step 3: Scan for Malware (Optional but Recommended)
+Windows:
+
+Run Microsoft Defender Offline Scan.
+
+Or use Malwarebytes.
+
+macOS:
+
+Use Malwarebytes for Mac or CleanMyMac.
+
+Tips for Staying Safe:
+Only install extensions from trusted sources.
+
+Always check permissions.
+
+Keep browser and extensions updated.
+
+Periodically review your installed extensions.
+
+
+  🚨 How Malicious Extensions Can Harm Users
+1. Stealing Personal Data
+Access passwords, credit card numbers, emails, or address book data.
+
+Some extensions log every keystroke or page visited.
+
+Data is often sent to third parties or cybercriminals.
+
+🔐 Example: An extension with access to “read and change all your data on the websites you visit” can monitor everything you do online.
+
+2. Injecting Ads and Redirects
+Insert unauthorized ads into websites.
+
+Redirect your search engine to fake or ad-heavy pages.
+
+Generate revenue through affiliate fraud.
+
+💸 Effect: Users are flooded with unwanted ads or are tricked into clicking malicious links.
+
+3. Browser Hijacking
+Change your homepage or default search engine.
+
+Prevent you from changing browser settings back.
+
+Force-install more malicious extensions.
+
+4. Cryptojacking
+Use your device to secretly mine cryptocurrency (like Bitcoin) using your CPU power.
+
+Slows down your system and drains battery.
+
+5. Downloading or Installing Malware
+Can install ransomware, spyware, or trojans through browser backdoors.
+
+Sometimes bundled with fake updates or downloads.
+
+6. Tracking and Surveillance
+Track browsing behavior across sites.
+
+Build profiles for targeted phishing or selling to advertisers/data brokers.
+
+7. Bypassing Security Tools
+Disable or interfere with antivirus software.
+
+Block browser security warnings or redirect security-related sites.
+
+🛡️ How to Protect Yourself:
+Avoid installing extensions with few reviews or unknown developers.
+
+Check permissions — don’t allow unnecessary access.
+
+Use trusted antivirus and malware scanners.
+
+Regularly audit your browser’s installed extensions.
